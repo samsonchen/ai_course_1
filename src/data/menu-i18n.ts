@@ -34,7 +34,7 @@ export const menuItems: MenuItem[] = [
   },
   {
     id: 'main-004', category: 'main',
-    names: { zh: '酥炸無骨海鱸佐羅望子醬（不辣）', en: 'Crispy Boneless Sea Bass with Tamarind Sauce', ja: '骨なしスズキの揚げ物 タマリンドソース', ko: '바삭한 뼈없는 농어 타마린드소스' },
+    names: { zh: '酥炸無骨海鱸佐羅望子醬', en: 'Crispy Boneless Sea Bass with Tamarind Sauce', ja: '骨なしスズキの揚げ物 タマリンドソース', ko: '바삭한 뼈없는 농어 타마린드소스' },
     price: [
       { label: { zh: '整尾', en: 'Whole Fish', ja: '一尾', ko: '한마리' }, value: 430 },
       { label: { zh: '半尾', en: 'Half Fish', ja: '半尾', ko: '반마리' }, value: 240 },
