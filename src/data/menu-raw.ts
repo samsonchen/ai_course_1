@@ -9,7 +9,7 @@ export const menuRaw = [
   { category: 'main', name: '酥炸無骨海鱸佐羅望子醬', options: ['整尾 430', '半尾 240'], tags: ['R'], image: null, emoji: '🐟', note: '' },
   { category: 'main', name: '冬蔭功酸辣海鮮湯', options: ['小 270', '大 510'], tags: ['3'], image: null, emoji: '🍲', note: '' },
   { category: 'main', name: '南薑香茅椰奶雞湯（不辣）', options: ['小 250', '大 460'], tags: [], image: null, emoji: '🍲', note: '' },
-  { category: 'side', name: '月亮蝦餅佐手工甜雞醬', options: ['大8片 310', '小4片 170'], tags: ['R'], image: '月亮蝦餅.jpeg', emoji: '🥟', note: '' },
+  { category: 'side', name: '月亮蝦餅', options: ['大8片 310', '小4片 170'], tags: ['R'], image: '月亮蝦餅.jpeg', emoji: '🥟', note: '' },
   { category: 'side', name: '泰式炸雞佐羅望子醬（不辣）', options: ['220'], tags: [], image: null, emoji: '🍗', note: '' },
   { category: 'side', name: '炸豆腐佐手工酸甜醬', options: ['95'], tags: ['V'], image: '炸豆腐.jpeg', emoji: '🧈', note: '' },
   { category: 'side', name: '泰式女婿蛋', options: ['95'], tags: ['V'], image: null, emoji: '🥚', note: '' },

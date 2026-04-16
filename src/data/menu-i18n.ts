@@ -61,7 +61,7 @@ export const menuItems: MenuItem[] = [
   },
   {
     id: 'side-001', category: 'side',
-    names: { zh: '月亮蝦餅佐手工甜雞醬', en: 'Moon Shrimp Cake with Sweet Chili Sauce', ja: '月の海老餅・手作り甘辛ソース', ko: '새우 케이크 수제 스위트칠리소스' },
+    names: { zh: '月亮蝦餅', en: 'Moon Shrimp Cake', ja: '月の海老餅', ko: '새우 케이크' },
     price: [
       { label: { zh: '大 8片', en: 'Large (8 pcs)', ja: '大 8枚', ko: '대 8조각' }, value: 310 },
       { label: { zh: '小 4片', en: 'Small (4 pcs)', ja: '小 4枚', ko: '소 4조각' }, value: 170 },
